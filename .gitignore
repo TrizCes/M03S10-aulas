@@ -1,0 +1,42 @@
+# Arquivos de compilação e saída
+bin/
+obj/
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.cache
+
+# Configuração local
+appsettings.Development.json
+launchSettings.json
+
+# Arquivos temporários e caches
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Dependências e pacotes
+packages/
+node_modules/
+
+# Arquivos de build específicos da IDE
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln.cache
+
+# Logs e arquivos de rastreamento específicos da IDE
+*.log
+*.swp
+
+# Arquivos de registros e saída de build
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de usuário específicos da IDE
+.suo
+.user
